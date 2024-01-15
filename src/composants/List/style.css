@@ -1,10 +1,4 @@
-/* .listG{
-    width: 40%;
-    height: 50px;
-    float: left;
-    border: 1px solid black;
-  }
-  */
+
  .containerList{
     padding: 30px;
     
@@ -27,14 +21,9 @@
  }
  .selectL{
     
-     border: none; /* Supprime toutes les bordures */
-    border-bottom: 1px solid black; /* Ajoute une bordure inférieure de 1 pixel en noir */
+     border: none; 
+    border-bottom: 1px solid black; 
      
        
       
  }
- /* .inputLabel {
-    position: absolute;
-    pointer-events: none;
-    padding: 4px 8px;
-  } */
