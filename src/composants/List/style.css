@@ -1,0 +1,40 @@
+/* .listG{
+    width: 40%;
+    height: 50px;
+    float: left;
+    border: 1px solid black;
+  }
+  */
+ .containerList{
+    padding: 30px;
+    
+ } 
+ .formControl{
+    margin: 10px ;
+    width: 120px;
+    border: 1px solid black;
+
+ }
+ .formControlWrapper {
+   margin-bottom: 25px; /* Add your desired margin value here */
+ }
+ 
+ .gridL{
+    height: 75vh;
+    overflow: auto;
+    margin: 20px;
+    
+ }
+ .selectL{
+    
+     border: none; /* Supprime toutes les bordures */
+    border-bottom: 1px solid black; /* Ajoute une bordure inférieure de 1 pixel en noir */
+     
+       
+      
+ }
+ /* .inputLabel {
+    position: absolute;
+    pointer-events: none;
+    padding: 4px 8px;
+  } */
